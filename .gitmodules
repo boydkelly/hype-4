@@ -1,0 +1,9 @@
+[submodule "themes/hyde-y"]
+	path = themes/hyde-y
+	url = https://github.com/enten/hyde-y
+[submodule "themes/hugo-bootstrap-premium"]
+	path = themes/hugo-bootstrap-premium
+	url = https://github.com/appernetic/hugo-bootstrap-premium.git
+[submodule "themes/hugo-material-blog"]
+	path = themes/hugo-material-blog
+	url = https://github.com/Xzya/hugo-material-blog.git

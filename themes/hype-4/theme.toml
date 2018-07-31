@@ -1,0 +1,17 @@
+name = "Hype-4"
+license = "MIT"
+licenselink = "https://github.com/boydkelly/hype-4/LICENSE.md"
+description = "A hugo theme using bootstrap, bootswatch4, font-awesome, highlight.js, i18n with multilingual support"
+homepage = "https://github.com/boydkelly/hype-4"
+tags = ["Blog", "Technical", "Personal", "Corporate", "Multilingual", "Bootstrap", "Disqus" ]
+features = ["Blog", "Technical", "Personal", "Corporate", "Responsive", "Google Analytics", "Bootstrap", "Bootswatch", "font-awesome", "Sumome", "Mailmunch","Multilingual", "i18n"]
+min_version = 0.15
+
+[author]
+    name = "Boyd Kelly"
+    homepage = "http://www.coastsystems.net"
+
+[original]
+    author =  "Murali Rath/Steven Enten"
+    homepage = "https://github.com/enten/hyde-y"
+    repo = "https://github.com/enten/hyde-y"
